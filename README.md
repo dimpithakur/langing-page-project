@@ -29,12 +29,6 @@ The goal of this project is to design a clean and user-friendly landing page by 
 
 ---
 
- Project Preview
-
-(Add your project screenshot here)
-
----
-
  Folder Structure
 
 LandingPage/
